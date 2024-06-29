@@ -1,0 +1,52 @@
+#tablebody {
+    width: 50vw;
+    background-color: orange;
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+#button {
+    border-radius: 50px;
+    height: 30px;
+    width: 150px;
+    background-image: linear-gradient(To right, orange, green, orange);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 30px;
+
+}
+
+#username {
+    border: solid black 2px;
+    height: 30px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+
+.del,
+.edit {
+    font-weight: bold;
+    background-image: linear-gradient(To right, black, green, black);
+    color: white;
+}
+
+
+#update {
+    display: none;
+    border-radius: 50px;
+    height: 30px;
+    width: 150px;
+    background-image: linear-gradient(To right, orange, green, orange);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 30px;
+
+}
